@@ -25,13 +25,9 @@ To use this API, follow these steps:
 
 3. Open a terminal and navigate to the directory where the API code is located.
 
-4. Run the following command to install the dependencies:
+4. Run the following command to install the dependencies: ```npm install```
 
-```npm install```
-
-5. Start the server with the following command:
-
-```npm start```
+5. Start the server with the following command: ```npm start```
 
 The server will be available at `http://localhost:5500`.
 
